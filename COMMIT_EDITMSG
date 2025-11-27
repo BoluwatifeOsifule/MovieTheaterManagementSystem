@@ -1,0 +1,53 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Form1.Designer.cs
+#	new file:   Form1.cs
+#	new file:   Form1.resx
+#	new file:   MovieTheaterManagementSystem_Improved.csproj
+#	new file:   MovieTheaterManagementSystem_Improved.csproj.user
+#	new file:   Program.cs
+#	new file:   bin/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.deps.json
+#	new file:   bin/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.dll
+#	new file:   bin/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.exe
+#	new file:   bin/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.pdb
+#	new file:   bin/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.runtimeconfig.json
+#	new file:   bin/Debug/net8.0-windows/bookings.json
+#	new file:   bin/Debug/net8.0-windows/movies.json
+#	new file:   obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.AssemblyInfo.cs
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.AssemblyInfoInputs.cache
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.Form1.resources
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.GeneratedMSBuildEditorConfig.editorconfig
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.GlobalUsings.g.cs
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.assets.cache
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.csproj.BuildWithSkipAnalyzers
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.csproj.CoreCompileInputs.cache
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.csproj.FileListAbsolute.txt
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.csproj.GenerateResource.cache
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.designer.deps.json
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.designer.runtimeconfig.json
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.dll
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.genruntimeconfig.cache
+#	new file:   obj/Debug/net8.0-windows/MovieTheaterManagementSystem_Improved.pdb
+#	new file:   obj/Debug/net8.0-windows/apphost.exe
+#	new file:   obj/Debug/net8.0-windows/ref/MovieTheaterManagementSystem_Improved.dll
+#	new file:   obj/Debug/net8.0-windows/refint/MovieTheaterManagementSystem_Improved.dll
+#	new file:   obj/MovieTheaterManagementSystem_Improved.csproj.nuget.dgspec.json
+#	new file:   obj/MovieTheaterManagementSystem_Improved.csproj.nuget.g.props
+#	new file:   obj/MovieTheaterManagementSystem_Improved.csproj.nuget.g.targets
+#	new file:   obj/project.assets.json
+#	new file:   obj/project.nuget.cache
+#	new file:   obj/project.packagespec.json
+#	new file:   obj/rider.project.model.nuget.info
+#	new file:   obj/rider.project.restore.info
+#
+# Untracked files:
+#	MovieTheaterManagementSystem_Improved.sln
+#
